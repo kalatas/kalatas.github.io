@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F5F3EF"/>
+  <!-- top hairline -->
+  <rect x="0" y="0" width="1200" height="6" fill="#1E3A5F"/>
+
+  <!-- brand mark -->
+  <g transform="translate(90, 150)">
+    <rect width="120" height="120" rx="26" fill="#1E3A5F"/>
+    <rect x="28" y="32" width="47" height="58" rx="6" fill="#EDEAE4"/>
+    <rect x="38" y="24" width="47" height="58" rx="6" fill="#FFFFFF"/>
+    <line x1="47" y1="39" x2="76" y2="39" stroke="#1E3A5F" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="47" y1="51" x2="76" y2="51" stroke="#C9C2B6" stroke-width="4.5" stroke-linecap="round"/>
+    <line x1="47" y1="63" x2="66" y2="63" stroke="#C9C2B6" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="84" cy="79" r="16" fill="#D4941C"/>
+    <path d="M77 79.4 l5 5 l9 -10.2" fill="none" stroke="#FFFFFF" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="240" y="240" fill="#1E3A5F" font-family="'Source Serif 4', Georgia, serif" font-size="86" font-weight="700">Kalatas</text>
+
+  <!-- tagline -->
+  <text x="92" y="350" fill="#1A1A1A" font-family="'Source Serif 4', Georgia, serif" font-size="52" font-weight="600">Your data. One place. Your control.</text>
+
+  <!-- supporting line -->
+  <text x="92" y="410" fill="#5C5C5C" font-family="'DM Sans', system-ui, sans-serif" font-size="27">Transaction records, delivery notes, weighbridge tickets, visitor logs,</text>
+  <text x="92" y="448" fill="#5C5C5C" font-family="'DM Sans', system-ui, sans-serif" font-size="27">compliance documents — structured, secure, and shareable on demand.</text>
+
+  <!-- footer strip -->
+  <rect x="0" y="568" width="1200" height="62" fill="#1E3A5F"/>
+  <text x="92" y="607" fill="#FFFFFF" font-family="'DM Sans', system-ui, sans-serif" font-size="24" font-weight="600">kalatas.cseco.co.ke</text>
+  <circle cx="1085" cy="599" r="7" fill="#D4941C"/>
+  <text x="1102" y="607" fill="#EDEAE4" font-family="'DM Sans', system-ui, sans-serif" font-size="22">Personal data infrastructure</text>
+</svg>
